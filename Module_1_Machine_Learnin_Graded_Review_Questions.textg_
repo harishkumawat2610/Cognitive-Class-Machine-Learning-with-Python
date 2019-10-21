@@ -1,0 +1,51 @@
+Instructions for Graded Review Questions
+
+1.Time allowed: Unlimited  
+  - We encourage you to go back and review the materials to find the right answer
+  - Please remember that the Review Questions are worth 50% of your final mark.
+2.Attempts per question:
+  - One attempt - For True/False questions
+  - Two attempts - For any question other than True/False
+3.Clicking the "Final Check" button when it appears, means your submission is FINAL.  You will NOT be able to resubmit your answer for that question ever again
+4.Check your grades in the course at any time by clicking on the "Progress" tab
+--------------------------------------------------------------------------------------------------------------------
+
+REVIEW QUESTION 1
+
+Machine Learning uses algorithms that can learn from data without relying on explicitely programmed methods.
+
+ True 
+ False
+ 
+ answer-True
+ 
+ -------------------------------------------------------------------------------------------------------------------
+ 
+ REVIEW QUESTION 2 
+ 
+ Which are the two types of Supervised learning techniques?
+ 
+  Classification and Clustering  
+  Classification and K-Means  
+  Regression and Clustering  
+  Regression and Partitioning  
+  Classification and Regression 
+  
+  answer:-Classification and Regression 
+  
+  ---------------------------------------------------------------------------------------------------------------------
+  
+  REVIEW QUESTION 3
+  
+  Which of the following statements best describes the Python scikit library?
+
+ A library for scientific and high-performance computation.  
+ A collection of algorithms and tools for machine learning. 
+ popular plotting package that provides 2D plotting as well as 3D plotting.  
+ A library that provides high-performance, easy to use data structures.  
+ A collection of numerical algorithms and domain-specific toolboxes.
+ 
+ answer:-A collection of algorithms and tools for machine learning.
+  
+  
+  
